@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @raquib-dev
+/src/backend/database.py      @raquib-dev
+/src/backend/routers/auth.py  @raquib-dev
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @raquib-dev
